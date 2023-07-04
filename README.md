@@ -1,5 +1,5 @@
 # 💫 About Me:
-MAKÜ Yönetim Bilişim Sistemleri 3. Sınıf Öğrencisiyim Flutter- C# alanında kendimi geliştirmekteyim
+MAKÜ Yönetim Bilişim Sistemleri 3. Sınıf Öğrencisiyim Flutter- C# alanında kendimi geliştirmekteyim Veri Tabanı olarak Microsoft SQL Server kullanmaktayım.
 
 
 ## 🌐 Socials:

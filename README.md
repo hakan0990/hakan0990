@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>I am a 3rd year student of MAKÜ Management Information Systems.I am improving myself in HTML5, CSS3, Boostrap, Flutter-Asp.net JavaScript languages ​​and Web Development. I am using Microsoft SQL Server as database.<br><br>
+<br>I am a 3rd year student of MAKÜ Management Information Systems.I am improving myself in HTML5, CSS3, Boostrap, Dart ,Asp.net,JavaScript languages ​​and Web Development. I am using Microsoft SQL Server as database.<br><br>
 
 
 ## 🌐 Socials:

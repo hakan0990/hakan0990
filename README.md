@@ -1,5 +1,5 @@
-# 💫 About Me:
-<br>I am a 4rd year student of Mehmet Akif Ersoy University Management Information Systems.I am improving myself in HTML5, CSS3, Boostrap ,Asp.net,JavaScript,Jquery languages ​​and Web Development. I am using Microsoft SQL Server as database.<br><br>
+ # 💫 About Me:  
+<br>I am a 4rd year student of Mehmet Akif Ersoy University Management Information Systems.I am improving myself in HTML5, CSS3, Boostrap ,Asp.net,JavaScript,Jquery,Dart languages ​​and Web Development And Mobile Development .  I am using Microsoft SQL Server as database.<br><br>
 
 
 ## 🌐 Socials:
